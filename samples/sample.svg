@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Rectangle -->
+  <rect x="10" y="10" width="80" height="50" fill="none" stroke="black" stroke-width="1"/>
+  <!-- Circle -->
+  <circle cx="150" cy="50" r="30" fill="none" stroke="red" stroke-width="1"/>
+  <!-- Line -->
+  <line x1="10" y1="100" x2="190" y2="100" stroke="blue" stroke-width="1"/>
+  <!-- Ellipse -->
+  <ellipse cx="60" cy="150" rx="40" ry="20" fill="none" stroke="green" stroke-width="1"/>
+  <!-- Path (triangle) -->
+  <path d="M 150 120 L 190 180 L 110 180 Z" fill="none" stroke="purple" stroke-width="1"/>
+  <!-- Polygon (diamond) -->
+  <polygon points="150,10 170,30 150,50 130,30" fill="none" stroke="orange" stroke-width="1"/>
+  <!-- Polyline (zigzag) -->
+  <polyline points="10,80 30,70 50,80 70,70 90,80" fill="none" stroke="brown" stroke-width="1"/>
+</svg>

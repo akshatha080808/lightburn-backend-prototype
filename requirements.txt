@@ -1,0 +1,10 @@
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+shapely>=2.0.0
+ezdxf>=0.18.0
+svgpathtools>=1.6.0
+python-multipart>=0.0.6
+pytest>=7.4.0
+httpx>=0.25.0
+pytest-cov>=4.1.0
